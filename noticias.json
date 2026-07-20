@@ -4,22 +4,26 @@
       "seccion": "Plataforma",
       "titular": "QUANTUM abre su web pública: transparencia medible y mercados en tiempo real",
       "texto": "El ecosistema QUANTUM estrena portal público con cotizaciones reales de mercado y una hoja de ruta que incluirá métricas verificables del motor de análisis.",
-      "titular": "CHART-QUANTUM disponible dentro dentro de nuestro ecosistema",
-      "texto": "QUANTUM, pone a tú disposción tus gráficos más buscados, nuevos indicadores, nuevas confluencias, nuevos análisis, todo dentro de nuestro ecosistema.",
       "pagina": "PÁG. 2"
+    },
+    {
+      "seccion": "Plataforma",
+      "titular": "CHART-QUANTUM disponible dentro de nuestro ecosistema",
+      "texto": "QUANTUM pone a tu disposición los gráficos más buscados, nuevos indicadores, nuevas confluencias y nuevos análisis, todo dentro de nuestro ecosistema.",
+      "pagina": "PÁG. 3",
+      "enlace": "/chart"
     },
     {
       "seccion": "Comunidad",
       "titular": "La comunidad QUANTUM ya está activa en X, YouTube y Telegram",
-      "texto": "Análisis técnicos semanales, señales diarias y lives moderados por traders con experiencia. Los canales oficiales ya están abiertos a nuevos miembros. Pide tu acceso y disfruta de indicadores exclusivos",
+      "texto": "Análisis técnicos semanales, señales diarias y lives moderados por traders con experiencia. Los canales oficiales ya están abiertos a nuevos miembros.",
       "pagina": "PÁG. 4"
     }
   ],
   "titulares": [
     { "seccion": "Mercados", "titular": "Cotizaciones de cripto en velas de 15 minutos, ya disponibles en esta edición" },
     { "seccion": "Tecnología", "titular": "El motor de análisis QUANTUM combina metodología SMC con procesamiento algorítmico" },
-    { "seccion": "Prueba", "titular": "El motor de análisis QUANTUM combina metodología SMC con procesamiento algorítmico" },
     { "seccion": "Próximamente", "titular": "Oro, plata, forex e índices se incorporarán a la edición en tiempo real" },
-        
+    { "seccion": "Próximamente", "titular": "Win rate y profit factor por símbolo: métricas públicas del sistema en camino" }
   ]
 }
