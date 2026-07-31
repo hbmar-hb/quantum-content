@@ -19,12 +19,19 @@
       "texto": "Análisis técnicos semanales, señales diarias y lives moderados por traders con experiencia. Los canales oficiales ya están abiertos a nuevos miembros.",
       "pagina": "PÁG. 4",
       "enlace": "/community"
+    },
+    {
+      "seccion": "Comunidad",
+      "titular": "Nuevos lives con el análisis de nuestros trades",
+      "texto": "Aprovecha sus conocimientos, utiliza sus confluencias y entra en sus operaciones.",
+      "pagina": "PÁG. 5"
+      "enlace": "https://www.youtube.com/watch?v=9ukOPEp6cTI"
     }
   ],
   "titulares": [
     { "seccion": "Mercados", "titular": "Cotizaciones de cripto en velas de 15 minutos, ya disponibles en esta edición" },
     { "seccion": "Tecnología", "titular": "El motor de análisis QUANTUM combina metodología SMC con procesamiento algorítmico" },
     { "seccion": "Próximamente", "titular": "Oro, plata, forex e índices se incorporarán a la edición en tiempo real" },
-    { "seccion": "Próximamente", "titular": "Win rate y profit factor por símbolo: métricas públicas del sistema en camino" }
+    { "seccion": "Próximamente", "titular": "Accede a nuestros enlaces de Comunidad, X, Telegram y Youtube, contenidos para ti" }
   ]
 }
