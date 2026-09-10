@@ -15,9 +15,9 @@
       "enlace": "https://www.youtube.com/live/gXNzY8Gm1vk?si=_RIPxMsr2xuMe7Q2"
     },
     {
-      "seccion": "Comunidad",
-      "titular": "La comunidad QUANTUM ya está activa en X, YouTube y Telegram",
-      "texto": "Análisis técnicos semanales, señales diarias y lives moderados por traders con experiencia. Los canales oficiales ya están abiertos a nuevos miembros.",
+      "seccion": "Plataforma",
+      "titular": "QUANTUM LANZA ANÁLISIS DIARIO CON MOTOR IA ICT/SMC",
+      "texto": "En breve, nuestra comunidad dispondrá de análisis de situación de mercado en BTC en diario y 4 horas.",
       "pagina": "PÁG. 4",
       "enlace": "/community"
     },
@@ -30,9 +30,9 @@
     }
   ],
   "titulares": [
-    { "seccion": "Directos", "titular": "Recuerda; Domingo 2 de agosto. Pre-sesión de Mercado a las 22:30 esp con Ángel Fx" },
-    { "seccion": "Tecnología", "titular": "El motor de análisis QUANTUM combina metodología SMC con procesamiento algorítmico" },
-    { "seccion": "Próximamente", "titular": "Oro, plata, forex e índices se incorporarán a la edición en tiempo real" },
-    { "seccion": "Próximamente", "titular": "Accede a nuestros enlaces de Comunidad, X, Telegram y Youtube, contenidos para ti" }
+    { "seccion": "Directos", "titular": "Recuerda directos diarios cada semana por nuestros traders" },
+    { "seccion": "Tecnología", "titular": "Quantum lanza plataforma de gráficos con indicadores avanzados y procesamiento de señales" },
+    { "seccion": "Próximamente", "titular": "Quantum en Tiktok; En breve incluimos contenidos de nuestra comunidad" },
+    { "seccion": "Comunidad", "titular": "Accede a nuestros enlaces de Comunidad, X, Telegram y Youtube, contenidos para ti" }
   ]
 }
