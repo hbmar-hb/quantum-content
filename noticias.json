@@ -2,22 +2,22 @@
   "principales": [
     {
       "seccion": "Plataforma",
-      "titular": "LIVE SEMANAL: Angel FX Analytix",
-      "texto": "Analisis y proyecciones para la semana de operativa del 7 al 13 de Septiembre",
+      "titular": "LIVE SEMANAL: Quantum",
+      "texto": "SESIÓN DE ANALISIS DE MERCADO CIERRE DE Wall Street",
       "pagina": "PÁG. 2",
-      "enlace": "https://www.youtube.com/live/2dS85b4FN-o?si=NVLSHZJBpD0YKgmm"
+      "enlace": "https://www.youtube.com/watch?v=l7xG2sWAlNM"
     },
     {
       "seccion": "Plataforma",
-      "titular": "Quantum Trading: LIVE",
-      "texto": "21/09: Indicador 92% winrate +Gráfico en tiempo real de 5 minuto del XAU/XAG/BTC +5 activos",
+      "titular": "Nasdaq Operaciones en vivo + indicador 75% winrateE",
+      "texto": "27/10: Nuevo indicador en nuestra plataforma",
       "pagina": "PÁG. 3",
-      "enlace": "https://www.youtube.com/live/FCR3fD2rb6g?si=jUbgsYZ47-m-j_MA"
+      "enlace": "https://www.youtube.com/live/8I1Oj8kYGDs?is=rMKdTChR2R8R5yjv"
     },
     {
       "seccion": "Plataforma",
       "titular": "QUANTUM LANZA ANÁLISIS DIARIO CON MOTOR IA ICT/SMC",
-      "texto": "En breve, nuestra comunidad dispondrá de análisis de situación de mercado en BTC en diario y 4 horas.",
+      "texto": "Diariamente nuestra IA analiza BTC en 4h/diario.",
       "pagina": "PÁG. 4",
       "enlace": "/community"
     },
@@ -30,7 +30,7 @@
     }
   ],
   "titulares": [
-    { "seccion": "Directos", "titular": "Recuerda directos diarios cada semana por nuestros traders" },
+    { "seccion": "Directos", "titular": "Ya disponible nuestros agentes automáticos para vuestras operaciones" },
     { "seccion": "Tecnología", "titular": "Quantum lanza plataforma de gráficos con indicadores avanzados y procesamiento de señales" },
     { "seccion": "Próximamente", "titular": "Quantum en Tiktok; En breve incluimos contenidos de nuestra comunidad" },
     { "seccion": "Comunidad", "titular": "Accede a nuestros enlaces de Comunidad, X, Telegram y Youtube, contenidos para ti" }
